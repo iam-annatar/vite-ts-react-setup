@@ -2,7 +2,7 @@ const App = () => {
   const count = (a: number, b: number) => {
     return a + b;
   };
-  var a;
+
   return (
     <>
       <h1>hello world</h1>
