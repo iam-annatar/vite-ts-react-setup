@@ -1,14 +1,5 @@
 const App = () => {
-  const count = (a: number, b: number) => {
-    return a + b;
-  };
-
-  return (
-    <>
-      <h1>hello world</h1>
-      <div>{count(4, 6)}</div>
-    </>
-  );
+  return <h1>hello world</h1>;
 };
 
 export default App;
